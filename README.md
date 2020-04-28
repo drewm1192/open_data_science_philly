@@ -10,4 +10,6 @@ csv parking.csv properties.csv population.txt log.txt
 
 Note that "csv parking.csv" can be replaced with "json parking.json" if you would like to run the JSON file instead. Both files provide the same data, but the option is provided to showcase the use of different parsers.
 
+Please also be sure to add the provided .jar file to your Build Path.
+
 After hitting "run", please wait for a few moments for the data to load. Once data is loaded, follow the prompts in the console.
